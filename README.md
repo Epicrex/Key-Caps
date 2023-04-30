@@ -1,4 +1,4 @@
-[Keyboard Layout - Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+[Keyboard layout - Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
 
 # Keycap Profiles
 <img src="https://user-images.githubusercontent.com/85735034/235356236-3675fa65-e910-434b-ac70-fd53ef4a6406.png">
