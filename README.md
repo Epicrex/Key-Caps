@@ -55,7 +55,7 @@ Double-shot keycaps have the legend and keycap made seperatly and then fused tog
 - Any color legend possible
 
 ## Backlit
-Backlit keycaps can either be `Laser-etched` or `Double-shot`, but have transparent plasitc embeded into the keycap to allow for light to pass through.
+Backlit keycaps can either be `Laser-etched` or `Double-shot`, but use transparent plasitc instead to allow for light to pass through.
 
 - Light shines through legends
 - All attributes from either `Laser-etched` or `Double-shot`
