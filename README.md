@@ -1,3 +1,5 @@
+[Keyboard Layout - Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+
 # Keycap Profiles
 <img src="https://user-images.githubusercontent.com/85735034/235356236-3675fa65-e910-434b-ac70-fd53ef4a6406.png">
 
@@ -5,7 +7,7 @@ Of those the most common ones in pre-built keybaords are `OEM` and `CHERRY`. `SA
 
 
 # Physical Layouts
-[wiki](https://en.wikipedia.org/wiki/Keyboard_layout)
+
 
 The Physical key laout is not indicative of if the keycap print is QWERT or QWERTZ. 
 
