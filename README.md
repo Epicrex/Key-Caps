@@ -5,7 +5,7 @@
 - [Physical Layouts](#Physical-Layouts-)
 - [Visual Layouts](#Visual-Layouts-)
 - [Keycap Types](#Keycap-Types-)
-
+- [Keycap Vendors](#keycap-Vendors-)
 
 # Keycap Profiles [^](#table-of-contents)
 <img src="https://user-images.githubusercontent.com/85735034/235356236-3675fa65-e910-434b-ac70-fd53ef4a6406.png">
@@ -81,3 +81,4 @@ There are also Pudding keycaps which have transparent plastic on the sides and m
 
 <img src="https://user-images.githubusercontent.com/85735034/235364198-9b63bd60-828d-46e3-b7a4-d8d8396792f3.png" width="300">
 
+# Keycap Vendors [^](#table-of-contents)
