@@ -94,5 +94,8 @@ There are also Pudding keycaps which have transparent plastic on the sides and m
 # Keycap Vendors [^](#table-of-contents)
 - [Candy Keys](https://candykeys.com/category:keycaps)
 - [Etsy](https://www.etsy.com/de-en/search?q=Keycaps)
-- [Mech Group Buys](https://www.mechgroupbuys.com/keycaps?status=ic)
 - [My Keyboard](https://mykeyboard.eu/catalogue/category/keycaps_2/)
+
+### Others
+- [Mech Group Buys](https://www.mechgroupbuys.com/keycaps?status=ic)
+- [Geek Hack - keyboard enthusiasts](https://geekhack.org/index.php?board=132.0)
