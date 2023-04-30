@@ -32,6 +32,18 @@ The plastic of the keycaps can be either made of `PBT` or `ABS`. Note that not a
 
 <img src="https://user-images.githubusercontent.com/85735034/235363825-e22171bc-041e-4128-ae16-aa8a7ba00234.png" width="500">
 
+PTB:
+- More durable
+- Louder
+- Matte
+- More expensive
+
+ABS:
+- Wears over time
+- Quiter
+- Shiny/ Glossy
+- Less expensive
+
 ## Laser-etched
 Laser-etched keycaps have the legends embeded into the plastic using lasers, making the permanent.
 - Will never fade
