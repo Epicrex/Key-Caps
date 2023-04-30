@@ -34,8 +34,10 @@ PTB Plastic:
 - Louder
 - Matte (More vibrant)
 - More expensive
+- Less durable
 
 ABS Plastic:
+- More durable
 - Quiter
 - Shiny/ Glossy
 - Less expensive
