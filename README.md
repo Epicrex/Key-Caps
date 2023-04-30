@@ -30,6 +30,8 @@ The most common physical layouts are `ANSI` and `ISO`. And in Japan `JIS` is als
 
 The plastic of the keycaps can be either made of `PBT` or `ABS`. Note that not all keycap types are avaiable with both plastic types. `ABS` only has `Laser-etched`, `Pad-printed` and `Double-shot`.
 
+
+
 <img src="https://user-images.githubusercontent.com/85735034/235363825-e22171bc-041e-4128-ae16-aa8a7ba00234.png" width="600">
 
 ## Laser-etched
@@ -48,7 +50,7 @@ Double-shot keycaps have the legend and keycap made seperatly and then fused tog
 Backlit keycaps can either be `Laser-etched` or `Double-shot`, but have transparent plasitc embeded into the keycap to allow for light to pass through.
 
 - Light shines through legends
-- As well as all attributes from either `Laser-etched` or `Double-shot`
+- All attributes from either `Laser-etched` or `Double-shot`
 
 <img src="https://user-images.githubusercontent.com/85735034/235361035-d0a3d562-9cd3-4fc1-addd-aa3613fe961a.png" width="500">
 
@@ -75,3 +77,6 @@ Pad-printed keycaps are created by stamping the print onto the keycap They are a
 
 ## Pudding
 There are also Pudding keycaps which have transparent plastic on the sides and mostly come as `Backlit` keycaps.
+
+- Light shines through legends and sides
+- All attributes from either `Laser-etched` or `Double-shot`
