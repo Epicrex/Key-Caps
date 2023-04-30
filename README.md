@@ -80,3 +80,6 @@ There are also Pudding keycaps which have transparent plastic on the sides and m
 
 - Light shines through legends and sides
 - All attributes from either `Laser-etched` or `Double-shot`
+
+<img src="https://user-images.githubusercontent.com/85735034/235364198-9b63bd60-828d-46e3-b7a4-d8d8396792f3.png" width="300">
+
