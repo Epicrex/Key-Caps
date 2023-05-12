@@ -37,10 +37,10 @@ PTB Plastic:
 - Less durable
 
 ABS Plastic:
-- More durable
 - Quiter
 - Shiny/ Glossy
 - Less expensive
+- More durable
 
 ## Laser-etched
 Laser-etched keycaps have the legends embeded into the plastic using lasers, making the permanent.
