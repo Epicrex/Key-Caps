@@ -28,15 +28,15 @@ The most common physical layouts are `ANSI` and `ISO`. And in Japan `JIS` is als
 
 # Keycap Types [^](#table-of-contents)
 
-The plastic of the keycaps can be either made of `PBT` or `ABS`. Note that not all keycap types are avaiable with both plastic types. `ABS` only has `Laser-etched`, `Pad-printed` and `Double-shot`.
+The keycap material is either made of `PBT` or `ABS` plastic. Note that not all keycap types are avaiable with both materials. `ABS` is limited to `Laser-etched`, `Pad-printed` and `Double-shot`.
 
-PBT Plastic 💜:
+PBT Plastic (Polybutylene Terephthalate)💜:
 - Louder
 - Matte (More vibrant)
 - More expensive
 - Less durable
 
-ABS Plastic:
+ABS Plastic (Acrylonitrile Butadiene Styrene):
 - Quiter
 - Shiny/ Glossy
 - Less expensive
