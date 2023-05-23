@@ -100,6 +100,12 @@ There are also Pudding keycaps which have transparent plastic on the sides and m
 - [Keygem](https://keygem.com)
 - [Thok](https://thok.design/product-category/artisans/)
 - [Anime Keybaord](https://animekeyboard.com/)
+- [Kbd Fans](https://kbdfans.cn/)
+- [Pimp My keyboard](https://pimpmykeyboard.com/)
+- [Drop](https://drop.com/)
+- [Kprepublic](https://kprepublic.com/en-de/collections/keycaps)
+- [Tai Hao](https://shop.tai-hao.com/products)
+- [Melgeek](https://www.melgeek.com/en-eu/collections/keycaps-1)
 ### Others
 - [Mech Group Buys](https://www.mechgroupbuys.com/keycaps?status=ic)
 - [Geek Hack - keyboard enthusiasts](https://geekhack.org/index.php?board=132.0)
